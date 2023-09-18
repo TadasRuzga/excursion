@@ -29,7 +29,9 @@ h2 {
   color: gray;
 }
 
-footer {
+.footer {
   text-align: right;
   color: gray;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 17px;
 }
